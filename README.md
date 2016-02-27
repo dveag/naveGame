@@ -21,7 +21,7 @@ We wanted to learn about game development . This is a great way to get into the 
 
 ### Contributors
 
-	David Ruiz Martin-Romo: 
+David Ruiz Martin-Romo: 
 [github:daviles94](https://github.com/daviles94/)
 
 ### License
