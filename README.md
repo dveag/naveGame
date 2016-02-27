@@ -5,9 +5,13 @@ Simple game with GTGE of ships and asteroids.
 ###Screenshot
 
 Game over:
+
+
 ![image](perder.gif)
 
 Win and go on to level 2:
+
+
 ![image](ganar.gif)
 
 
@@ -18,7 +22,7 @@ We wanted to learn about game development . This is a great way to get into the 
 ### Contributors
 
 	David Ruiz Martin-Romo: 
-	<https://github.com/daviles94/>
+[a link](https://github.com/daviles94/)
 
 ### License
 ```
